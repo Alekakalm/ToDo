@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #252525;
+}
+
+.box {
+    background-color: #3d3d3d;
+    color:#fff;
+    border-radius: 1.5rem;
+    box-shadow: 10px -10px #2c2c2c;
+    border-top: solid 1px #606060;
+    border-right: solid 1px #505050;
+}
+
+.form-control {
+    background-color: #363636 !important;
+    border: none !important;
+    color: #eaeaea !important;
+}
+
+.input-group-text {
+    background-color: #707070 !important;
+    border: none !important;
+}
