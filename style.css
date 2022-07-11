@@ -10,6 +10,20 @@
     height: 100vh;
     background-color: #252525;
 }
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    margin-right: 1rem;
+}
+
+.manage {
+    font-size: 1rem;
+}
 
 .box {
     background-color: #3d3d3d;
